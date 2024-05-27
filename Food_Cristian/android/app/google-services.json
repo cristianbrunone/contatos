@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "10148038617",
+    "project_id": "coxinhas-delivery",
+    "storage_bucket": "coxinhas-delivery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10148038617:android:51cc94bcb10df5f4fcfbc8",
+        "android_client_info": {
+          "package_name": "com.example.food_cristian"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiHJBmSwotheDQv8iM2tKeabXLBr86TPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
